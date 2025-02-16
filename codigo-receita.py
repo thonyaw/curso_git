@@ -1,0 +1,1 @@
+print('adiciona-codigo-receta')
